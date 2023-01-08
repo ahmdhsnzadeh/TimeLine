@@ -2,9 +2,11 @@
 
 **This beautiful TimeLine is Code by Me**
 
+<h3 align="center">🎥Video</h3>
+
 https://user-images.githubusercontent.com/109382352/211189085-27aa19a1-9347-4717-8184-1748c684cd1f.mp4
 
-**📸Gallery**
+<h4 align="center">📸Gallery</h4>
 
 ![t](https://user-images.githubusercontent.com/109382352/211189088-8dc8a0ce-a6b3-497a-a21d-0ac59badd13e.jpg)
 
